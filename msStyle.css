@@ -1,0 +1,155 @@
+.MS{
+    width: 100vw;
+  height: 100vh;
+  background: url(peakpx.jpg) 
+  no-repeat center center fixed;
+  -o-background-size: cover; 
+  background-size: cover;
+}
+body{
+    font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  color: var(--secondary-text-color);
+}
+#m1{
+    font-family: 'Bangers', cursive;
+    font-size: 200px;
+    color: rgb(248, 15, 7);
+}
+#M{
+    font-size: 170px;
+  color: var(--text-icon-color);
+  width: 100%;
+  position: absolute;
+  top: 40%;
+  left: 0;
+  text-align: center;
+  color: rgb(243, 236, 243);
+  font-family: 'Reenie Beanie',cursive;
+  
+}
+.ms2{
+    width: 100vw;
+    height: 55vh;
+    background: url(3eb1c2ed04cc648248e013c7728d81ce.jpg) 
+    no-repeat center center fixed;
+    background-size: cover;
+    background-attachment: scroll;
+}  
+#pic{
+    width: 14%;
+    float: left;
+    border-radius: 4%;
+   margin-right: 5%;
+}
+#s,.timeline{
+    font: size 60px; 
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(81, 81, 247);
+    text-decoration: underline;
+
+}
+.a1{
+    font-size: 80px ;
+    font-weight: 800;
+    
+} 
+.hr {
+    margin-top: 0;
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgb(240, 41, 108), rgba(0, 0, 0, 0));
+  }
+  .tt{
+    
+    margin: 30px;
+    font-size: 100px;
+  }
+  h1{
+    font-size: 120px;
+  }
+  .about ms{
+    margin: 15px;
+    font-size: 50px;
+    
+  }
+  li{
+    font-size: 65px;
+    border-spacing: 15px;
+    padding: 22px;
+  }
+  .t4{
+   float: inline-end;
+  }
+  strong{
+     font-size: 75px;
+    color: crimson;
+  }
+
+
+
+  .row {
+    margin-left:-5px;
+    margin-right:-5px;
+  }
+    
+  .column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  table {
+    font-size: 40px;
+    word-spacing: 15px;
+    text-align: center;
+    margin: 20px;
+    padding: 5000px;
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+  }
+  
+  th, td {
+    text-align: center;
+    padding: 16px;
+    font-size: 60px ;
+  }
+  * {
+    box-sizing: border-box;
+  }
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  footer{
+    text-align: center;
+    background-color: rgb(177, 228, 245);
+  }
+  #foot{
+    font-size: 140px;
+    color: rgb(77, 3, 248);
+  }
+  #name{
+    font-size: 90px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: bolder;
+  }
+  #me{
+   /* color: rgb(255, 5, 222); */
+    font-size: 85px;
+    
+  }
+  #me:hover{
+    color: rgb(255, 5, 222);
+  }
+  
